@@ -9,7 +9,7 @@
 |  |===|--|   \.'\|===|~|--|%%|~~~|--|
 ^--^---'--^    `-'`---^-^--^--^---'--'
 
-Welcome to the Library! This app, meant for use by librarians, consists of a SQLite database of classic and new literature and an easy-to-use GUI written in Java that allows users to search, add, delete, and check books in and out.
+Welcome to the Library! This app, meant for use by hobbyist librarians, consists of a SQLite database of classic and new literature and an easy-to-use GUI written in Java that allows users to search, add, delete, and check books in and out.
 
 Java is required to run the .jar executable.
 
